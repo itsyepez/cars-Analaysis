@@ -3,13 +3,21 @@
 Sobre la tabla cars el que cuenta con las siguientes columnas:
 
 name: nombre del auto
+
 year: año del auto
+
 Selling_price: precio del auto
+
 km_driven: kilometraje del auto
+
 fuel: tipo de combustible
+
 seller_type: tipo de vendedor
+
 transmission: si es automatico o manual
+
 owner: si es el primer dueño del auto, segundo, tercero, y asi sucesivamente.
+
 Se utiliza el lenguaje SQL para responder a las siguientes preguntas:
 
 ¿Cuál es el promedio de km por año?
